@@ -1,0 +1,18 @@
+{
+  "name": "prueba-vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:brunoken22/prueba-vercel.git",
+  "author": "bruno <bruno_am_22@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next"
+  },
+  "dependencies": {
+    "next": "^13.4.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
